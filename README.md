@@ -15,6 +15,4 @@ A emoji interpreter app which takes the emoji as input on click or via entering 
 <li>React</li>
 </ul>
 
-Hosted on : https://www.netlify.com / (Netlify)
-
 preview demo : https://1mmh3e.csb.app/
